@@ -1,0 +1,20 @@
+{
+  "name": "saucdemocypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@percy/cli": "^1.26.3",
+    "cypress": "^12.17.4"
+  },
+  "devDependencies": {
+    "@percy/cypress": "^3.1.2",
+    "next": "^13.4.17"
+  }
+}
