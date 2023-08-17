@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cy:open": "cypress open"
+    "cy:open": "cypress open",
+    "cypress:run": "cypress run",
+    "build": "next build",
+    "start": "next start"
   },
   "keywords": [],
   "author": "",
